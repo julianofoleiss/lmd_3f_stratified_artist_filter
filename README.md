@@ -23,7 +23,20 @@ These files contain the exact same list of files of the correspondent test file,
 
 > song_file\\tgenre\\n
 
-If you use this split, please cite this page!
+If you use this split, please cite the following paper:
+
+> @article{FOLEIS2020106127,
+> title = "Texture selection for automatic music genre classification",
+> journal = "Applied Soft Computing",
+> volume = "89",
+> pages = "106127",
+> year = "2020",
+> issn = "1568-4946",
+> doi = "https://doi.org/10.1016/j.asoc.2020.106127",
+> url = "http://www.sciencedirect.com/science/article/pii/S1568494620300673",
+> author = "Juliano Henrique Foleis and Tiago Fernandes Tavares",
+> keywords = "Music genre classification, Sound texture selection, Music classification, Signal processing, Music information retrieval",
+> }
 
 Thanks to Yandre Costa for supplying me with this split.
 
